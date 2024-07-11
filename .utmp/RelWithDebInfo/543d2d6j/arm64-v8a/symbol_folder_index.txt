@@ -1,0 +1,1 @@
+D:\Projetos Unity\Prototipo Stack up\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\543d2d6j\obj\arm64-v8a

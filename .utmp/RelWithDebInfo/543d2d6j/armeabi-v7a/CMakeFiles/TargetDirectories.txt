@@ -1,0 +1,5 @@
+D:/Projetos Unity/Prototipo Stack up/.utmp/RelWithDebInfo/543d2d6j/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Projetos Unity/Prototipo Stack up/.utmp/RelWithDebInfo/543d2d6j/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Projetos Unity/Prototipo Stack up/.utmp/RelWithDebInfo/543d2d6j/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Projetos Unity/Prototipo Stack up/.utmp/RelWithDebInfo/543d2d6j/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Projetos Unity/Prototipo Stack up/.utmp/RelWithDebInfo/543d2d6j/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
